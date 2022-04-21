@@ -1,8 +1,6 @@
 package Regex;
 
-public class regexproram {
-
-	import java.util.regex.*;
+    import java.util.regex.*;
 	class regex {
 
 		public static boolean
